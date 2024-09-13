@@ -170,7 +170,7 @@ public class Library
         }
     }
 
-    // Method to sort the books alphabetically by title (simplified)
+    // Method to sort the books alphabetically by title
     public void SortBooks()
     {
         // Use the List<T>.Sort() method with the CompareTo() method for alphabetical sorting
